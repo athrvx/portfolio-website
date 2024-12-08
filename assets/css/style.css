@@ -4,7 +4,7 @@
 
 
 /**
- * copyright 2022 @codewithsadee
+ * copyright 2024 @atharvgangrade
  */
 
 
@@ -69,6 +69,20 @@
   --light-gray-70: hsla(0, 0%, 84%, 0.7);
   --bittersweet-shimmer: hsl(0, 43%, 51%);
 
+  /* new colors - */
+  --rich-black-fogra-29: hsl(210, 40%, 10%);
+  --old-silver: hsl(0, 0%, 60%);
+  --cultured: hsl(0, 0%, 93%);
+  --gradient-animated: linear-gradient(
+    270deg,
+    #ff6f61,
+    #ffdd57,
+    #4caf50,
+    #42a5f5,
+    #ab47bc,
+    #ff6f61
+  );
+
   /**
    * typography
    */
@@ -111,7 +125,19 @@
 
 }
 
+/* adding new continues changing multicolor gradient*/
 
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
 
 
 
@@ -156,8 +182,6 @@ input, textarea {
 html { font-family: var(--ff-poppins); }
 
 body { background: var(--smoky-black); }
-
-
 
 
 
@@ -336,6 +360,12 @@ main {
   border-radius: 20px;
 }
 
+.avatar-box img {
+  padding: 3px;
+  border-radius: 20%; /* For a circular border */
+}
+
+
 .info-content .name {
   color: var(--white-2);
   font-size: var(--fs-3);
@@ -445,9 +475,6 @@ main {
 
 
 .social-item .social-link:hover { color: var(--light-gray); }
-
-
-
 
 
 /*-----------------------------------*\

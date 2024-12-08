@@ -2,29 +2,29 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Atharv Amit Gangrade
+Atharv Amit Gangrade
+Software Engineer
 
 Show Contacts
 
 Email
-richard@example.com
+atharvgangrade51@gmail.com
 
 Phone
-+1 (213) 352-2795
++91 9165291812
 
 Birthday
-June 23, 1982
+June 25, 2003
 
 Location
-Sacramento, California, USA
+Bengaluru, Karnataka India
 
 # navbar
 
 About
 Resume
-Portfolio
+Projects
 Blog
 Contact
 
@@ -32,9 +32,11 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I'm a 4th-year Engineering student specializing in Information Science and Engineering from Bangalore, India, with a passion for AI, system design, and software development. I enjoy creating innovative solutions and transforming complex challenges into efficient and user-friendly applications.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+My work involves developing functional and accessible platforms like **Vaani**, an AI-powered tool supporting inclusive communication, and building advanced systems like a **self-driving car** from scratch. I focus on making technology intuitive, impactful, and scalable while adding a personal touch to every project.
+
+My goal is to merge creativity and functionality to build solutions that stand out, whether it’s crafting an AI model or optimizing a full-stack application. I've also participated in hackathons and coding competitions, achieving recognition on global platforms.
 
 
 ## service
@@ -42,11 +44,11 @@ My job is to build your website so that it is functional and user-friendly but a
 What i'm doing
 
 alt = design icon
-Web design
+System Design
 The most modern and high-quality design made at a professional level.
 
 alt = Web development icon
-Web development
+Web Development
 High-quality development of sites at the professional level.
 
 alt = mobile app icon
